@@ -1,0 +1,6 @@
+input{
+    border-radius: 18px;
+    background: #e0e0e0;
+    box-shadow:  5px 5px 10px #afafaf,
+                -5px -5px 10px #ffffff;
+}
